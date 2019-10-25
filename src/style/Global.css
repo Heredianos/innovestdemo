@@ -1,0 +1,12 @@
+body{
+    background: #1b1B25;
+    background: #161616;
+    color: white;
+    margin: 0;
+}
+#root {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

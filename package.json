@@ -1,13 +1,20 @@
 {
   "name": "my-app",
+  "homepage": "https://heredianos.github.io/innovestdemo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-numeric-input": "^2.2.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "yarn-install": "^1.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deplay": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

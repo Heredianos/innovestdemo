@@ -1,0 +1,59 @@
+.Navbar{
+    width: 100%;
+    height: 10vh;
+    padding: 5px;
+    display: grid;
+    grid-template: 1fr/ 50% 50%;
+    justify-content: space-between;
+    align-items: center;
+    
+    background-image: url('../images/stars.svg');
+    
+    border-bottom: solid rgba(0, 0, 0, 0.438) 5px;
+
+}
+
+
+.Navbar-buttons{
+    width: 80%;
+    justify-self: center;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+.Navbar-buttons a {
+    padding: 10px 10px;
+}
+
+.Navbar-buttons button {
+    font-size: 1.5em;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Navbar-image a {
+    height: inherit;
+}
+
+.ghost-btn{
+    border: solid #d75c2a 1px;
+    background: none;
+    color: white;
+}
+
+.solid-btn {
+    border: solid #d75c2a 1px;
+    background: #d75c2a;
+    color: black;
+}
+
+
+.Navbar-image {
+    height: inherit;
+    text-align: center;
+}
+
+.Navbar-image img {
+    height: inherit;
+}

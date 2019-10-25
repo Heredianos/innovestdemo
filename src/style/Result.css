@@ -1,0 +1,41 @@
+.ResultConteiner{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    background: cornsilk;
+    color: black;
+    font-size: 2em;
+}
+
+.Balance {
+    width: 100%;
+    text-align: center;
+}
+
+.Price {
+    width: 100%;
+    display: grid;
+    grid-template: 1fr/ 50% 50%;
+    grid-gap: 10px;
+
+}
+
+
+.Cost h2, .Cost h5 {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.DescriptionElements{
+    width: 100%;
+    display: grid;
+    grid-template: 1fr / 50% 50%;
+    widows: 100%;
+    text-align: center;
+}
+
+.DescriptionElements input {
+    width: 90%;
+    margin: 5px;
+}
