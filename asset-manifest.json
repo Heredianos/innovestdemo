@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/innovestdemo/static/css/main.714ce98a.chunk.css",
+    "main.js": "/innovestdemo/static/js/main.49dd0254.chunk.js",
+    "main.js.map": "/innovestdemo/static/js/main.49dd0254.chunk.js.map",
+    "runtime-main.js": "/innovestdemo/static/js/runtime-main.08ca28b1.js",
+    "runtime-main.js.map": "/innovestdemo/static/js/runtime-main.08ca28b1.js.map",
+    "static/js/2.9ca7dd54.chunk.js": "/innovestdemo/static/js/2.9ca7dd54.chunk.js",
+    "static/js/2.9ca7dd54.chunk.js.map": "/innovestdemo/static/js/2.9ca7dd54.chunk.js.map",
+    "index.html": "/innovestdemo/index.html",
+    "precache-manifest.637d7473ef8c2dc456c383970257f114.js": "/innovestdemo/precache-manifest.637d7473ef8c2dc456c383970257f114.js",
+    "service-worker.js": "/innovestdemo/service-worker.js",
+    "static/css/main.714ce98a.chunk.css.map": "/innovestdemo/static/css/main.714ce98a.chunk.css.map",
+    "static/media/Home.css": "/innovestdemo/static/media/BackgroundImage-Innovest.b90ad17f.png",
+    "static/media/logo-Innovest.png": "/innovestdemo/static/media/logo-Innovest.fb1d0ba1.png",
+    "static/media/stars.svg": "/innovestdemo/static/media/stars.1d17360a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ca28b1.js",
+    "static/js/2.9ca7dd54.chunk.js",
+    "static/css/main.714ce98a.chunk.css",
+    "static/js/main.49dd0254.chunk.js"
+  ]
+}
